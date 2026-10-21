@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="100%" role="img" aria-labelledby="inkloom-hero-title inkloom-hero-desc">
+  <title id="inkloom-hero-title">InkLoom — 法考知识动画库</title>
+  <desc id="inkloom-hero-desc">InkLoom 把法考考点织成可播放的多场景动画：396 部动画、1682 个场景、12 个学科。右侧以织机、经纬线与场景卡片示意制作方式。</desc>
+
+  <rect width="1200" height="420" fill="#F5F0E4"/>
+
+  <!-- paper grid -->
+  <g stroke="#DED6C6" stroke-width="0.6" opacity="0.45">
+    <path d="M0 70H1200M0 140H1200M0 210H1200M0 280H1200M0 350H1200"/>
+    <path d="M70 0V420M170 0V420M270 0V420M370 0V420M470 0V420M570 0V420M670 0V420M770 0V420M870 0V420M970 0V420M1070 0V420M1170 0V420"/>
+  </g>
+
+  <!-- vertical divider -->
+  <path d="M680 66V354" stroke="#D3C9B6" stroke-width="1"/>
+
+  <!-- loom: warp -->
+  <g stroke="#D8CFBE" stroke-width="1">
+    <path d="M750 84V348M810 84V348M870 84V348M930 84V348M990 84V348M1050 84V348M1110 84V348"/>
+  </g>
+  <!-- loom: weft -->
+  <g stroke="#E4DBC9" stroke-width="1">
+    <path d="M720 120H1140M720 180H1140M720 240H1140M720 300H1140"/>
+  </g>
+  <!-- red weft / shuttle -->
+  <path d="M700 210H1148" stroke="#B23A2E" stroke-width="1.6"/>
+  <path d="M975 210L1003 198L1031 210L1003 222Z" fill="#B23A2E"/>
+  <path d="M1031 210H1068" stroke="#B23A2E" stroke-width="1.2" stroke-dasharray="3 5"/>
+  <circle cx="1003" cy="210" r="2.2" fill="#F5F0E4"/>
+
+  <!-- scene cards on the loom -->
+  <g>
+    <!-- card 01: fork -->
+    <rect x="768" y="126" width="96" height="60" rx="2" fill="#FFFDF7" stroke="#D4CAB7" stroke-width="1"/>
+    <rect x="768" y="126" width="96" height="3" fill="#B23A2E"/>
+    <text x="778" y="146" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="8" letter-spacing="1" fill="#8A8172">01</text>
+    <g fill="none" stroke="#2F5D57" stroke-width="1.5" stroke-linecap="round">
+      <path d="M782 170H808"/>
+      <path d="M808 170L828 158M808 170L828 182"/>
+    </g>
+    <circle cx="782" cy="170" r="2.6" fill="#2F5D57"/>
+    <circle cx="830" cy="158" r="2.6" fill="#B23A2E"/>
+    <circle cx="830" cy="182" r="2.6" fill="#A9824A"/>
+
+    <!-- card 02: comparison -->
+    <rect x="884" y="246" width="96" height="60" rx="2" fill="#FFFDF7" stroke="#D4CAB7" stroke-width="1"/>
+    <rect x="884" y="246" width="96" height="3" fill="#A9824A"/>
+    <text x="894" y="266" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="8" letter-spacing="1" fill="#8A8172">02</text>
+    <g stroke="#A9824A" stroke-width="1.5" stroke-linecap="round">
+      <path d="M900 292V278M916 292V270M932 292V284M948 292V274M964 292V288"/>
+      <path d="M896 292H968" stroke="#8A8172" stroke-width="1"/>
+    </g>
+
+    <!-- card 03: timeline -->
+    <rect x="1000" y="126" width="96" height="60" rx="2" fill="#FFFDF7" stroke="#D4CAB7" stroke-width="1"/>
+    <rect x="1000" y="126" width="96" height="3" fill="#2F5D57"/>
+    <text x="1010" y="146" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="8" letter-spacing="1" fill="#8A8172">03</text>
+    <g stroke="#2F5D57" stroke-width="1.4" stroke-linecap="round">
+      <path d="M1014 174H1082"/>
+    </g>
+    <g fill="#FFFDF7" stroke="#2F5D57" stroke-width="1.3">
+      <circle cx="1018" cy="174" r="3"/>
+      <circle cx="1040" cy="174" r="3"/>
+      <circle cx="1062" cy="174" r="3"/>
+      <circle cx="1082" cy="174" r="3"/>
+    </g>
+    <circle cx="1040" cy="174" r="3.4" fill="#B23A2E" stroke="#B23A2E"/>
+
+    <!-- card 04: gate / threshold -->
+    <rect x="990" y="280" width="96" height="60" rx="2" fill="#FFFDF7" stroke="#D4CAB7" stroke-width="1"/>
+    <rect x="990" y="280" width="96" height="3" fill="#2F5D57"/>
+    <text x="1000" y="300" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="8" letter-spacing="1" fill="#8A8172">04</text>
+    <g fill="none" stroke="#2F5D57" stroke-width="1.5" stroke-linecap="round">
+      <path d="M1006 318H1032V306H1058V318H1072"/>
+      <path d="M1032 306V326M1058 306V326" stroke="#B23A2E" stroke-width="1.1"/>
+    </g>
+  </g>
+
+  <!-- seal -->
+  <g>
+    <rect x="1106" y="72" width="44" height="44" rx="2" fill="#B23A2E"/>
+    <text x="1128" y="103" text-anchor="middle" font-family="'Songti SC','Noto Serif CJK SC',serif" font-size="25" fill="#F8F2E6">织</text>
+  </g>
+
+  <!-- left: identity -->
+  <text x="64" y="64" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="13" letter-spacing="2.4" fill="#7A7264">INKLOOM · 法考知识动画库</text>
+
+  <text x="60" y="150" font-family="'Iowan Old Style','Palatino Linotype','Songti SC','Noto Serif CJK SC',Georgia,serif" font-size="96" font-weight="700" fill="#1C1A16" letter-spacing="-1">InkLoom</text>
+
+  <text x="64" y="208" font-family="'Songti SC','Noto Serif CJK SC','Source Han Serif SC',serif" font-size="32" fill="#1C1A16" letter-spacing="0.5">把法考考点，织成看得见的动画。</text>
+  <text x="64" y="240" font-family="'Inter','Helvetica Neue','Noto Sans CJK SC',Arial,sans-serif" font-size="17" letter-spacing="0.3" fill="#6E665A">Legal knowledge, woven into motion.</text>
+
+  <path d="M64 264H124" stroke="#B23A2E" stroke-width="3"/>
+  <path d="M124 264H660" stroke="#D3C9B6" stroke-width="1"/>
+
+  <!-- stats -->
+  <g font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,monospace">
+    <text x="64" y="318" font-size="30" fill="#1C1A16">396</text>
+    <text x="64" y="340" font-size="12" letter-spacing="1.2" fill="#7A7264">部动画</text>
+
+    <text x="214" y="318" font-size="30" fill="#1C1A16">1,682</text>
+    <text x="214" y="340" font-size="12" letter-spacing="1.2" fill="#7A7264">个场景</text>
+
+    <text x="364" y="318" font-size="30" fill="#1C1A16">12</text>
+    <text x="364" y="340" font-size="12" letter-spacing="1.2" fill="#7A7264">个学科</text>
+
+    <text x="514" y="318" font-size="30" fill="#1C1A16">3.8h</text>
+    <text x="514" y="340" font-size="12" letter-spacing="1.2" fill="#7A7264">成片总时长</text>
+  </g>
+
+  <text x="64" y="388" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="10.5" letter-spacing="1.4" fill="#8A8172">REACT · REMOTION 4 · ASTRO STARLIGHT · ANIMATED AVIF</text>
+  <text x="720" y="388" font-family="'IBM Plex Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="10.5" letter-spacing="1.4" fill="#8A8172">NOTE → STORYBOARD → SCENE → AVIF</text>
+</svg>
