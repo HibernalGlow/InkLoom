@@ -1,22 +1,21 @@
 # 动画墙静帧来源
 
-每张图截自对应动画的某一幕终帧（scene frame 的 85%），只做缩放与 WebP 转码，不改变画面内容。
+每张图截自对应动画的某一幕稳定终帧（scene frame 的 85%），只做缩放与 WebP 转码，不改变画面内容。
 
 | 文件 | 动画 | 场景 | 帧 | 在线页面 |
 | --- | --- | --- | ---: | --- |
-| `marital-property-divorce-desk.webp` | 婚姻法——妆匣账台 | 离婚后的抚养、分割与赔偿 (`divorce-aftermath-bench`) | 348 | [打开](https://inkloomer.github.io/inkloom/objective/civil-law/20/marital-property-divorce-desk/) |
-| `commencement-threshold-map.webp` | 着手认定：预备与未遂的分界 | 区分标准：分界点在着手 (`stage-boundary`) | 195 | [打开](https://inkloomer.github.io/inkloom/objective/criminal/11/commencement-threshold-map/) |
-| `penalty-verdict-arena.webp` | 行政处罚 | 惩戒定义过滤器 (`sanction-definition-filter`) | 178 | [打开](https://inkloomer.github.io/inkloom/objective/administrative-law/07/penalty-verdict-arena/) |
-| `territorial-jurisdiction.webp` | 地域管辖——连接点、四类路径与合同三步走 | 合同三步走：专属→协议→法定 (`contract-three-step`) | 198 | [打开](https://inkloomer.github.io/inkloom/objective/civil-procedure/04/territorial-jurisdiction/) |
-| `recusal-sentry-rotation.webp` | 刑事回避——哨位名册、三面令旗与换防命令链 | 哨位名册 (`duty-roster-scope`) | 204 | [打开](https://inkloomer.github.io/inkloom/objective/criminal-procedure/05/recusal-sentry-rotation/) |
-| `shareholder-representative-action.webp` | 股东代表诉讼 | 前置程序与请求对象 (`shareholder-representative-action-scene-01`) | 155 | [打开](https://inkloomer.github.io/inkloom/objective/commercial-law/05/shareholder-representative-action/) |
-| `copyright-authorship.webp` | 著作权主体 | 作者认定 (`copyright-authorship-scene-01`) | 127 | [打开](https://inkloomer.github.io/inkloom/objective/intellectual-property-law/03/copyright-authorship/) |
-| `tang-code-liuzang-liusha.webp` | 《唐律疏议》：六赃与六杀 | 六赃：官吏与常人 (`liuzang`) | 224 | [打开](https://inkloomer.github.io/inkloom/objective/theoretical-law/03/tang-code-liuzang-liusha/) |
-| `spatial-regimes.webp` | 国际法上的空间——领土、海洋水域、大陆架与外空 | 领土的构成 (`territory-parts`) | 153 | [打开](https://inkloomer.github.io/inkloom/objective/international-law/03/spatial-regimes/) |
-| `labor-contract-law.webp` | 劳动合同法 | 解除与补偿 (`labor-contract-law-scene-05`) | 140 | [打开](https://inkloomer.github.io/inkloom/objective/labor-social-law/02/labor-contract-law/) |
-| `anti-monopoly-law.webp` | 反垄断法 | 适用与审查 (`anti-monopoly-law-scene-01`) | 136 | [打开](https://inkloomer.github.io/inkloom/objective/economic-law/01/anti-monopoly-law/) |
-| `intention-expression-hall.webp` | 意思表示、实践行为与要式行为——意思表示堂 | 意思表示两要素 (`intention-expression-anatomy`) | 280 | [打开](https://inkloomer.github.io/inkloom/objective/civil-law/03/intention-expression-hall/) |
-
-源 AVIF：`inkloomer/inkloom` 仓库 `public/animation-avif/<animation-id>/<scene-id>.avif`。
+| `transparency-optics-lab.webp` | 三法对比与政府信息公开 | 滥用申请节流 (`abuse-throttle-remedy`) | 204 | [打开](https://inkloomer.github.io/inkloom/objective/administrative-law/09/transparency-optics-lab/) |
+| `compulsion-safety-interlock.webp` | 行政强制 | 法院审查舱 (`court-review-chambers`) | 204 | [打开](https://inkloomer.github.io/inkloom/objective/administrative-law/08/compulsion-safety-interlock/) |
+| `penalty-verdict-arena.webp` | 行政处罚 | 拘留不执行筛网 (`detention-nonexecution-screen`) | 204 | [打开](https://inkloomer.github.io/inkloom/objective/administrative-law/07/penalty-verdict-arena/) |
+| `license-transit-hub.webp` | 行政许可 | 听证剧场 (`hearing-theater`) | 204 | [打开](https://inkloomer.github.io/inkloom/objective/administrative-law/06/license-transit-hub/) |
+| `abstract-act-printworks.webp` | 抽象行政行为 | 制定程序总线 (`legislation-print-line`) | 153 | [打开](https://inkloomer.github.io/inkloom/objective/administrative-law/04/abstract-act-printworks/) |
+| `concrete-act-laboratory.webp` | 具体行政行为一般理论 | 四重鉴别镜 (`four-lens-identification`) | 178 | [打开](https://inkloomer.github.io/inkloom/objective/administrative-law/05/concrete-act-laboratory/) |
+| `administrative-subject-command.webp` | 行政主体 | 公法人结构 (`public-person-shell`) | 135 | [打开](https://inkloomer.github.io/inkloom/objective/administrative-law/02/administrative-subject-command/) |
+| `administrative-principles-compass.webp` | 行政法的基本原则 | 六原则总览 (`six-principles-overview`) | 147 | [打开](https://inkloomer.github.io/inkloom/objective/administrative-law/01/administrative-principles-compass/) |
+| `coercion-pressure-ladder.webp` | 强制措施——压力梯谱系、取保阀门盘与逮捕三重仪表 | 压力梯谱系 (`pressure-ladder-overview`) | 204 | [打开](https://inkloomer.github.io/inkloom/objective/criminal-procedure/08/coercion-pressure-ladder/) |
+| `penalty-scale-office.webp` | 刑罚的体系：主刑五级·附加刑·非刑罚措施 | 主刑·五级音阶 (`main-penalty-ladder`) | 221 | [打开](https://inkloomer.github.io/inkloom/objective/criminal/14/penalty-scale-office/) |
+| `concept-of-law-dispute.webp` | 法概念的争议：一个前提、两大阵营与三要素 | 争议前提与两个限定 (`dispute-premise`) | 234 | [打开](https://inkloomer.github.io/inkloom/objective/theoretical-law/01/concept-of-law-dispute/) |
+| `marxist-law-essence.webp` | 马列法律本质：三重定性与理论地位 | 正式性：绑定国家机器 (`official-formality`) | 224 | [打开](https://inkloomer.github.io/inkloom/objective/theoretical-law/01/marxist-law-essence/) |
 
 合成图 `assets/readme/animation-wall.webp` 由上述 12 张静帧按 3×4 拼合；标题、序号与图注属于排版层，不改变静帧内容。
+

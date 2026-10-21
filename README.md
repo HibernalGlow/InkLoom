@@ -11,17 +11,17 @@
 <a id="zh"></a>
 <a id="wall"></a>
 
-## 动画墙 · 12 部代表作
+## 动画墙 · 12 部视觉代表作
 
-从 396 部里挑出的 12 部，覆盖 11 个学科。画面是动画的稳定终帧；点击下方的标题进入播放页。
+从 396 部里挑出的 12 部视觉代表作：按主视觉物件、构图与图解结构挑选，不按学科平均抽样。画面是动画的稳定终帧；点击下方的标题进入播放页。
 
 <p align="center">
-  <a href="https://inkloomer.github.io/inkloom/"><img src="./assets/readme/animation-wall.webp" width="100%" alt="InkLoom 动画墙：12 部代表作，覆盖 11 个学科，包含夫妻财产归属、着手认定、行政处罚、地域管辖、刑事回避、股东代表诉讼、著作权主体、唐律疏议六赃、国际法空间、劳动合同解除、反垄断协议与意思表示"></a>
+  <a href="https://inkloomer.github.io/inkloom/"><img src="./assets/readme/animation-wall.webp" width="100%" alt="InkLoom 动画墙：12 部视觉代表作，含金石墨拓、安全联锁、裁决竞技、城市通行枢纽、法规套色印坊、行政行为检验、机构指挥图、行政审查手册、锅炉压力梯、五线量刑谱、漆屏对峙与蓝晒制图"></a>
 </p>
 
-<p align="center"><sub>12 部代表作 · 11 个学科 · 画面为动画稳定终帧</sub></p>
+<p align="center"><sub>12 部视觉代表作 · 主视觉物件与结构化图解 · 画面为动画稳定终帧</sub></p>
 
-**逐个播放：** [婚姻家庭 · 夫妻财产归属](https://inkloomer.github.io/inkloom/objective/civil-law/20/marital-property-divorce-desk/) · [犯罪形态 · 着手认定](https://inkloomer.github.io/inkloom/objective/criminal/11/commencement-threshold-map/) · [行政处罚 · 裁量基准](https://inkloomer.github.io/inkloom/objective/administrative-law/07/penalty-verdict-arena/) · [地域管辖 · 合同三步走](https://inkloomer.github.io/inkloom/objective/civil-procedure/04/territorial-jurisdiction/) · [刑事回避 · 适用与不适用](https://inkloomer.github.io/inkloom/objective/criminal-procedure/05/recusal-sentry-rotation/) · [股东代表诉讼 · 前置程序](https://inkloomer.github.io/inkloom/objective/commercial-law/05/shareholder-representative-action/) · [著作权主体 · 创作与辅助](https://inkloomer.github.io/inkloom/objective/intellectual-property-law/03/copyright-authorship/) · [《唐律疏议》· 六赃](https://inkloomer.github.io/inkloom/objective/theoretical-law/03/tang-code-liuzang-liusha/) · [国际法空间 · 领土构成](https://inkloomer.github.io/inkloom/objective/international-law/03/spatial-regimes/) · [劳动合同 · 解除与补偿](https://inkloomer.github.io/inkloom/objective/labor-social-law/02/labor-contract-law/) · [反垄断 · 垄断协议](https://inkloomer.github.io/inkloom/objective/economic-law/01/anti-monopoly-law/) · [意思表示 · 两要素](https://inkloomer.github.io/inkloom/objective/civil-law/03/intention-expression-hall/)
+**逐个播放：** [金石墨拓图鉴 · 政务公开](https://inkloomer.github.io/inkloom/objective/administrative-law/09/transparency-optics-lab/) · [安全联锁工程图 · 行政强制](https://inkloomer.github.io/inkloom/objective/administrative-law/08/compulsion-safety-interlock/) · [裁决竞技工坊 · 行政处罚](https://inkloomer.github.io/inkloom/objective/administrative-law/07/penalty-verdict-arena/) · [城市通行枢纽 · 行政许可](https://inkloomer.github.io/inkloom/objective/administrative-law/06/license-transit-hub/) · [法规套色印坊 · 抽象行政行为](https://inkloomer.github.io/inkloom/objective/administrative-law/04/abstract-act-printworks/) · [行政行为检验实验室 · 具体行政行为](https://inkloomer.github.io/inkloom/objective/administrative-law/05/concrete-act-laboratory/) · [机构指挥图 · 行政主体](https://inkloomer.github.io/inkloom/objective/administrative-law/02/administrative-subject-command/) · [行政审查手册 · 行政法基本原则](https://inkloomer.github.io/inkloom/objective/administrative-law/01/administrative-principles-compass/) · [锅炉压力梯 · 刑事强制措施](https://inkloomer.github.io/inkloom/objective/criminal-procedure/08/coercion-pressure-ladder/) · [五线量刑谱 · 刑罚体系](https://inkloomer.github.io/inkloom/objective/criminal/14/penalty-scale-office/) · [漆屏对峙 · 法概念争议](https://inkloomer.github.io/inkloom/objective/theoretical-law/01/concept-of-law-dispute/) · [蓝晒制图 · 法的正式性](https://inkloomer.github.io/inkloom/objective/theoretical-law/01/marxist-law-essence/)
 
 
 <a id="catalog"></a>
@@ -106,7 +106,7 @@ InkLoom 把已经整理好的法考笔记，转成一组可播放的 Remotion �
 
 **InkLoom** is a gallery of **396 multi-scene animations** that turn Chinese bar-exam legal notes into visual explanations. Each animation covers one exam topic in 1–26 semantic scenes, built with React, Remotion 4, Astro Starlight, and animated AVIF.
 
-- **Animation wall:** [12 representative works](#wall) — the stills are stable final frames; the 12 play links sit directly below the wall.
+- **Animation wall:** [12 representative works](#wall) — selected for their dominant visual objects and diagram structures, not even subject coverage; the stills are stable final frames and the 12 play links sit directly below.
 - **Full catalog:** [396 animations, grouped by 12 subjects](./ANIMATIONS.md).
 - **Live site:** [inkloomer.github.io/inkloom](https://inkloomer.github.io/inkloom/).
 
